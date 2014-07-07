@@ -28,7 +28,7 @@ Temario
 ---
 
 - (1) ¿Qué es un programa de computadora? ¿Qué es un lenguaje de programación?
-- (2) ¿Qué hace que los humanos seamos diferentes a las computadoras? ¿Qué nos hace parecidos?
+- (2) ¿Cuál es el funcionamiento básico de un programa de computadora?¿Qué tipos de lenguajes existen?
 - (3) ¿Qué es y como funciona la memoria, el procesador, el compilador, el interprete y el código en un programa de computadora?
 - (4) ¿Qué tipos de data hay?
 - (5) ¿Qué tipos de operadores existen?
