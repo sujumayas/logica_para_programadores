@@ -1,27 +1,26 @@
 Lógica para Programadores
 =========================
 
-Objetivos del curso
+Objetivos y Descripción del curso/taller
 ---
 
-- El objetivo principal de este curso proviene de un problema
-observado en la práctica de tutorías de 3er ciclo de Telemática en Iberotec.
-Los alumnos habían llegado a 3er ciclo
-sin entender algunos conceptos básicos de programación.
-No saben qué es un programa, no entienden ni son capaces de reproducir
-los conceptos básicos de cualquier lenguaje de programación. Y, en algunos casos,
-ni si quiera son capaces de comprender operadores lógicos básicos
-y no son capaces de resolver problemas lógicos básicos, ni entender la lógica
-binaria.
+- El objetivo principal del curso/taller es ejercitar las competencias básicas lógicas requeridas para poder convertirse en programador. La intención de este curso es que los alumnos puedan, a través de ejercicios y/o juegos lógicos, repasar una a una las temáticas teóricas trasversales al aprendisaje de un lenguaje de programación. De esta manera, sin tocar una computadora casi a lo largo de todo el curso/taller intentaremos construir aprendisajes de largo aliento a través de experiencias duraderas.  
 
-- Este curso tiene como objetivo reforzar las competencias lógicas primarias necesarias
-para el aprendisaje de cualquier lenguaje de programación.
+- De esta manera, el curso/taller Lógica para Programadores busca ejercitar a los alumnos en un modo de pensar básico y necesario para cualquier programador: 
 
+- A) Pensamiento lógico
+- B) Pensamiento algorítmico
+- C) Pensamiento estructural
+- D) Pensamiento matemático
+
+- Estos cuatro modos de pensar, sin embargo, se desarrollarán ordenados en torno al eje temático de la programación y, por ende, el curso/taller se organizará al rededor de los conceptos básicos (teóricos) que los alumnos deben saber para ser capaces de aplicar estos modos de pensamiento. Estos son los numerales que hemos desarrollado en la sección "temario" de esta especie de sylabus. 
+
+- Es importante señalar que estos "temas teóricos" no se desarrollarán de manera exsahustiva, ni aplicada, por el momento. Este curso está apuntando, al menos en este primer piloto, a ejercitar los modos de pensamiento y no a enseñar algún lenguaje de programación en particular.  
 
 Requisitos académicos
 ---
 
-- Ninguno
+- Ninguno. En principio, cualquiera podría entrar. La idea es separarlos en grupos al momento de tomar el examen inicial, si esto es posible. 
 
 
 Temario
@@ -30,20 +29,20 @@ Temario
 - (1) ¿Qué es un programa de computadora? ¿Qué es un lenguaje de programación?
 - (2) ¿Cuál es el funcionamiento básico de un programa de computadora?¿Qué tipos de lenguajes existen?
 - (3) ¿Qué es y como funciona la memoria, el procesador, el compilador, el interprete y el código en un programa de computadora?
-- (4) ¿Qué tipos de data hay?
-- (5) ¿Qué tipos de operadores existen?
-- (6) ¿Qué es un algoritmo?
-- (7) ¿Qué es una variable?
-- (8) ¿Qué es un bucle?
-- (9) ¿Qué es una función?
-- (10) ¿Qué es un objeto? ¿Qué es un método? ¿Qué es un atributo?
+- (4) Types
+- (5) Operadores
+- (6) Algoritmos
+- (7) Variables
+- (8) Bucles
+- (9) Funciones
+- (10) Objetos, atributos y métodos.
 
 
 
 Cronograma
 ---
 
-Cada sesión tendrá 2 horas.
+Cada sesión tendrá 2 horas idealmente. Y se realizará una vez cada semana, los sábados, durante un mes. 
 
 ####Primera fecha:
 
@@ -67,10 +66,6 @@ Cada sesión tendrá 2 horas.
 - (11) - Repaso
 
 
-
-
-Bibliografía & Referentes
----
 
 
 
