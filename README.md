@@ -26,16 +26,16 @@ Requisitos académicos
 Temario
 ---
 
-- (1) ¿Qué es un programa de computadora? ¿Qué es un lenguaje de programación?
-- (2) ¿Cuál es el funcionamiento básico de un programa de computadora?¿Qué tipos de lenguajes existen?
-- (3) ¿Qué es y como funciona la memoria, el procesador, el compilador, el interprete y el código en un programa de computadora?
-- (4) Types
-- (5) Operadores
-- (6) Algoritmos
-- (7) Variables
-- (8) Bucles
-- (9) Funciones
-- (10) Objetos, atributos y métodos.
+1. ¿Qué es un programa de computadora? ¿Qué es un lenguaje de programación?
+2. ¿Cuál es el funcionamiento básico de un programa de computadora?¿Qué tipos de lenguajes existen?
+3. ¿Qué es y como funciona la memoria, el procesador, el compilador, el interprete y el código en un programa de computadora?
+4. Types
+5. Operadores
+6. Algoritmos
+7. Variables
+8. Bucles
+9. Funciones
+10. Objetos, atributos y métodos.
 
 
 
@@ -46,24 +46,24 @@ Cada sesión tendrá 2 horas idealmente. Y se realizará una vez cada semana, lo
 
 ####Primera fecha:
 
-- (0) Examen de ingreso
-- (1) - Intro 1
-- (2) - Intro 2
-- (3) - Intro 3
+0. Examen de ingreso
+1. Intro 1
+2. Intro 2
+3. Intro 3
 
 ####Segunda fecha:
-- (4) - Types
-- (5) - Operadores básicos
-- (6) - Algoritmo
+4. Types
+5. Operadores básicos
+6. Algoritmo
 
 ####Tercera fecha:
-- (7) - Variables
-- (8) - Bucles
-- (9) - Funciones
+7. Variables
+8. Bucles
+9. Funciones
 
 ####Cuarta fecha:
-- (10) - Objetos
-- (11) - Repaso
+10. Objetos
+11. Repaso
 
 
 
