@@ -64,7 +64,7 @@ Cada sesión tendrá 2 horas idealmente. Y se realizará una vez cada semana, lo
 ####Cuarta fecha:
 10. Objetos
 11. Repaso
-
+12. Examen de salida
 
 
 
