@@ -9,24 +9,24 @@ Ejercicios lúdico-prácticos:
 
 1. Introducción:
 
-    Ejercicio: 
+    *Ejercicio:* 
     - Decodificación binaria y otros ejercicios de base 2. 
     - Representación de las partes de una computadora. 
 
 2. Types, Operadores, Condicionales, Algoritmos
 
-    Ejercicio: 
+    *Ejercicio:* 
     - (Divide & Conquer) 20 Guesses
     - Juego de Cartas (condicionales)
 
 3. Variables, Bucles, Funciones
 
-    Ejercicio: 
+    *Ejercicio:*
     - Dibujando con pixels.
 
 4. Objetos, atributos y métodos.
 
-    ##### Ejercicio: 
+    *Ejercicio:*
     - Trees & Inheritance (databases/information theory)
 
 
