@@ -8,10 +8,10 @@ Objetivos y Descripción del curso/taller
 
 - De esta manera, el curso/taller Lógica para Programadores busca ejercitar a los alumnos en un modo de pensar básico y necesario para cualquier programador: 
 
-      A. Pensamiento lógico
-      B. Pensamiento algorítmico
-      C. Pensamiento estructural
-      D. Pensamiento matemático
+      1. Pensamiento lógico
+      2. Pensamiento algorítmico
+      3. Pensamiento estructural
+      4. Pensamiento matemático
 
 - Estos cuatro modos de pensar, sin embargo, se desarrollarán ordenados en torno al eje temático de la programación y, por ende, el curso/taller se organizará al rededor de los conceptos básicos (teóricos) que los alumnos deben saber para ser capaces de aplicar estos modos de pensamiento. Estos son los numerales que hemos desarrollado en la sección "temario" de esta especie de sylabus. 
 
