@@ -1,6 +1,6 @@
 Lógica para Programadores
 =========================
-
+2kQ1EWNSnBna
 Objetivos y Descripción del curso/taller
 ---
 
